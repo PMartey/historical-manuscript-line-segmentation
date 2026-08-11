@@ -25,7 +25,7 @@ data/processed/
 outputs/
 checkpoints/
 logs/
-
+assets/
 # Operating-system files
 .DS_Store
 Thumbs.db
