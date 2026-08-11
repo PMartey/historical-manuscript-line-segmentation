@@ -1,0 +1,31 @@
+# Python bytecode and package metadata
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints and local editor settings
+.ipynb_checkpoints/
+.vscode/
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Raw data, large generated outputs, and model artifacts
+data/raw/
+data/interim/
+data/processed/
+outputs/
+checkpoints/
+logs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

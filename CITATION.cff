@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Cursive Line Segmentation for Historical Manuscripts"
+version: "0.1.0"
+date-released: "[2026-05-25]"
+authors:
+  - family-names: "Martey"
+    given-names: "Pamela Shafarau Dede"
+  - family-names: "Hesketh"
+    given-names: "Micah"
+  - family-names: "Lauko"
+    given-names: "Istvan"
+repository-code: "https://github.com/PMartey/historical-manuscript-line-segmentation"
+keywords:
+  - line segmentation
+  - seam carving
+  - handwritten text recognition
+  - historical documents
+license: "MIT License"
