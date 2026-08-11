@@ -26,6 +26,7 @@ outputs/
 checkpoints/
 logs/
 assets/
+LICENSE-DECISION.md
 # Operating-system files
 .DS_Store
 Thumbs.db

@@ -68,7 +68,7 @@ python scripts/optimized_seam_carving6.ipynb --input examples/input/[SAMPLE_FILE
 The full manuscript corpus is not redistributed in this repository. Consult [DATA_POLICY.md](DATA_POLICY.md) and [data/README.md](data/README.md) before acquiring, using, or redistributing collection material.
 
 ## Citation
- **Cite this repository** option on GitHub.
+Use the **Cite this repository** option on GitHub.
 
 ## Authors and acknowledgments
 
@@ -76,7 +76,7 @@ The supplied project poster credits Pamela Martey, Micah Hesketh, and Dr. Istvan
 
 ## License
 
- See `LICENSE-DECISION.md`.
+ See `LICENSE`.
 
 ## References
 
